@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Frontend Mentor Order summary card.png](images/Summary-card-screenshot.jpg)
+![Frontend Mentor Order summary card.png](./images/Summary-card-screenshot.jpg)
 
 
 ### Links
